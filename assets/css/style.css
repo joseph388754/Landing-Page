@@ -6,6 +6,8 @@
 
 /* Element selector */
 
+
+
 ul {
     list-style-type: none;
     font-size: 35px;
@@ -42,7 +44,7 @@ footer p {
     background-color: blanchedalmond;
     font: 70px;
     position: absolute;
-    bottom: -300;
+    bottom: -400px;
     width: 100%;
     height: 2.5rem;
 }
@@ -54,6 +56,13 @@ form {
 /* class selector  */
 .form1 {
     background-color: none;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
 
 /* ID Selector */
